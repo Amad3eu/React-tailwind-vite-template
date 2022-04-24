@@ -1,10 +1,10 @@
 import React from 'react'
- 
-interface props {
+
+interface Props {
   title: string
 }
 
-const Header: React.FC<props> = ({ title }) => {
+const Header: React.FC<Props> = ({ title }) => {
   return (
     <header className="bg-white shadow">
       <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
@@ -13,6 +13,7 @@ const Header: React.FC<props> = ({ title }) => {
         </h1>
       </div>
     </header>
-  )
-}
+  );
+};
+
 export default Header

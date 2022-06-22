@@ -233,10 +233,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@headlessui/react@1.6.4":
-  version "1.6.4"
-  resolved "https://registry.npmjs.org/@headlessui/react/-/react-1.6.4.tgz"
-  integrity sha512-0yqz1scwbFtwljmbbKjXsSGl5ABEYNICVHZnMCWo0UtOZodo2Tpu94uOVgCRjRZ77l2WcTi2S0uidINDvG7lsA==
+"@headlessui/react@1.6.5":
+  version "1.6.5"
+  resolved "https://registry.npmjs.org/@headlessui/react/-/react-1.6.5.tgz"
+  integrity sha512-3VkKteDxlxf3fE0KbfO9t60KC1lM7YNpZggLpwzVNg1J/zwL+h+4N7MBlFDVpInZI3rKlZGpNx0PWsG/9c2vQg==
 
 "@heroicons/react@1.0.6":
   version "1.0.6"
